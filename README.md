@@ -11,7 +11,7 @@ I'm a passionate **Flutter Developer** specializing in building scalable mobile 
 
 ## 🚀 Tech Stack
 
-(https://skillicons.dev/icons?i=flutter,dart,swift,dotnet,csharp,vscode,androidstudio,github,git,xcode,mysql,firebase,postman)
+![Tech stack](https://skillicons.dev/icons?i=flutter,dart,swift,dotnet,csharp,vscode,androidstudio,github,git,xcode,mysql,firebase,postman)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
