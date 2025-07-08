@@ -37,9 +37,6 @@ I'm a passionate **Flutter Developer** specializing in building scalable mobile 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![RESTful APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdurahmanIbrahem&show_icons=true&theme=dracula)
 
 ## 🐍 Contribution Graph
 
