@@ -11,9 +11,9 @@ I'm a passionate **Flutter Developer** specializing in building scalable mobile 
 
 ## 🚀 Tech Stack
 
-![Tech stack](https://skillicons.dev/icons?i=flutter,dart,swift,dotnet,csharp,vscode,androidstudio,github,git,xcode,mysql,firebase,postman)
+![Tech stack](https://skillicons.dev/icons?i=flutter,dart,swift,dotnet,cs,vscode,androidstudio,github,git,mysql,firebase,postman)
 
-### Mobile Development
+### Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -33,9 +33,6 @@ I'm a passionate **Flutter Developer** specializing in building scalable mobile 
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-### Database & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![RESTful APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
