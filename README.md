@@ -20,6 +20,8 @@ I'm a passionate **Flutter Developer** specializing in building scalable mobile 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+[![Abdurahman Ibrahem profile views](https://u8views.com/api/v1/github/profiles/56024526/views/day-week-month-total-count.svg)](https://u8views.com/github/AbdurahmanAlmehdi)
+
 ### Architecture & Patterns
 - Clean Architecture
 - BLoC Pattern
